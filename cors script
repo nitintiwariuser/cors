@@ -1,0 +1,22 @@
+[
+
+{
+
+"AllowedHeaders": [ 
+"Authorization"
+],
+"AllowedMethods": [
+
+"GET"
+
+],
+
+"AllowedOrigins": [
+"http://myindexwebsite-faye1.s3-website.ap-south-1.amazonaws.com"
+],
+"MaxAgeSeconds": 3000
+}
+]
+
+
+http link is of edit index.html static websites hosting..
